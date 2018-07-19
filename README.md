@@ -1,2 +1,3 @@
 # hellow-world
-My very first repository
+Hellow,
+I'm doing the tutorial 
